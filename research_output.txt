@@ -1,0 +1,22 @@
+--- Research Output ---
+Timestamp: 2025-07-22 22:39:14
+
+{
+  "country": "Mexico",
+  "cities": ["Mexico City"],
+  "duration_days": 4,
+  "budget_cad": 2000,
+  "itinerary": [
+    "Day 1: Arrival in Mexico City, check into hotel, explore the Zocalo and Metropolitan Cathedral.",
+    "Day 2: Visit the National Museum of Anthropology and Chapultepec Castle.",
+    "Day 3: Day trip to Teotihuacan to see the pyramids.",
+    "Day 4: Explore the Coyoacan neighborhood and Frida Kahlo Museum, then depart."
+  ],
+  "activities": [
+    "Visit historical landmarks",
+    "Museum visits",
+    "Archaeological site exploration",
+    "Cultural immersion"
+  ]
+}
+
